@@ -1,6 +1,6 @@
 <?php
 
-
+//db online 
 
 return [
     'driver' => 'mysql',
